@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Utkarsh
-- 👀 I’m interested in 
-- 🌱 I’m currently learning DSA and Angular.
+- 🌱 I’m currently learning DSA, Spring-Boot, MySql and Angular.
 - 💞️ Ask me about Java and DSA
 - 📫 How to reach me Linkedin -: https://www.linkedin.com/in/utkarsh-pratap-singh-rajawat-8584341b6/
 
